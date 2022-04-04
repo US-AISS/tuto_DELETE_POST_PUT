@@ -1,1 +1,3 @@
-# tuto_GET_POST_PUT
+# lab4-consumingRESTServices2
+
+Material práctica 4 AISS: Consumo de servicios RESTful (II)
